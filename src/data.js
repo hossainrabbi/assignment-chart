@@ -23,6 +23,10 @@ const data = [
     name: 'Assignment 6',
     mark: 55,
   },
+  {
+    name: 'Assignment 7',
+    mark: 60,
+  },
 ];
 
 export default data;
